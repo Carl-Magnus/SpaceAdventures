@@ -12,10 +12,13 @@ namespace Space_Adventures
     {
         private Vector2 startPos;
         private bool walkRight = true;
+        private bool isDead = false;
+        int hp;
 
         public Chicken(Texture2D tex, Vector2 pos, Rectangle rect, GameWindow window) : base(tex, pos, rect, window)
         {
             startPos = pos;
+            hp = 10;
         }
 
         public override void Update(GameTime gameTime)

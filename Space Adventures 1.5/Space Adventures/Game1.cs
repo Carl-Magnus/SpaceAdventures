@@ -35,9 +35,8 @@ namespace Space_Adventures
 
             background = new Background(Content, Window);
 
-            playerTex = Content.Load<Texture2D>("PlayerAnimation");
+            playerTex = Content.Load<Texture2D>("PlayerSheetFinal");
             platTex = Content.Load<Texture2D>("Platform1");
-            backgroundTex = Content.Load<Texture2D>("DesertBackground");
             chickenTex = Content.Load<Texture2D>("ChickenWalkFull");
             bulletTex = Content.Load<Texture2D>("BlueBullet");
 

@@ -305,3 +305,68 @@ F:\Feedback\37\Space Adventures 1.4\Space Adventures\bin\Windows\x86\Debug\Sharp
 F:\Feedback\37\Space Adventures 1.4\Space Adventures\bin\Windows\x86\Debug\SharpDX.RawInput.xml
 F:\Feedback\37\Space Adventures 1.4\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 F:\Feedback\37\Space Adventures 1.4\Space Adventures\obj\x86\Debug\Space Adventures.csprojResolveAssemblyReference.cache
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\obj\x86\Debug\Space Adventures.exe
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\obj\x86\Debug\Space Adventures.pdb
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\BlueBullet.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\ChickenWalkFull.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertBackground.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertBG.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertFG.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertMG.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\GreenManWalk.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\PlayerAnimation.png
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Space Adventures.exe
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Space Adventures.pdb
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Calle-Mange\Documents\GitHub\SpaceAdventures\Space Adventures 1.5\Space Adventures\obj\x86\Debug\Space Adventures.csprojResolveAssemblyReference.cache
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\obj\x86\Debug\Space Adventures.exe
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\obj\x86\Debug\Space Adventures.pdb
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\BlueBullet.png
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\ChickenWalkFull.png
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertBG.png
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertFG.png
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\DesertMG.png
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\GreenManWalk.png
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Space Adventures.exe
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Space Adventures.pdb
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\obj\x86\Debug\Space Adventures.csprojResolveAssemblyReference.cache
+C:\Users\Calle-Mange\Desktop\Space Adventures 1.5\Space Adventures\bin\Windows\x86\Debug\Content\PlayerSheetFinal.png

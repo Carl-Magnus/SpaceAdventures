@@ -19,6 +19,7 @@ namespace Space_Adventures
         Texture2D bulletTex;
 
         Rectangle bulletRect;
+        Rectangle levelBounds;
         Vector2 velocity = new Vector2(10, 0);
         List<Bullet> bulletList = new List<Bullet>();
         List<Bullet2> bulletList2 = new List<Bullet2>();
@@ -37,14 +38,14 @@ namespace Space_Adventures
             //this.shootRight = shootRight;
             //this.shootUp = shootUp;
 
-            bX = window.ClientBounds.Width;
-            bY = window.ClientBounds.Height;
+            bX = camera.levelBounds.Width;
+            bY = camera.levelBounds.Height - 420;
         }
 
         public override void Update(GameTime gameTime)
         {
             //Movement
-            if (ks.IsKeyDown(Keys.Right) && (pos.X + rect.Width) <= 1800)
+            if (ks.IsKeyDown(Keys.Right) && (pos.X + rect.Width) <= 3800)
             {
                 speed.X = 4;
                 shootRight = true;

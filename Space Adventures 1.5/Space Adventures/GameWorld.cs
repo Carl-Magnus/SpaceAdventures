@@ -124,7 +124,7 @@ namespace Space_Adventures
 
         public void LoadPlayer()
         {
-            Rectangle playerRect = new Rectangle(0, 0, 32, 43);
+            Rectangle playerRect = new Rectangle(0, 0, 30, 43);
 
             StreamReader sr = new StreamReader("Player.txt");
             string s = sr.ReadLine();

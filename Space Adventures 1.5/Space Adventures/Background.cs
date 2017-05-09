@@ -14,6 +14,7 @@ namespace Space_Adventures
         List<Vector2> foreGround, middleGround, backGround;
         Texture2D[] tex;
         GameWindow window;
+        public Rectangle levelBounds;
 
         int fgSpacing, mgSpacing, bgSpacing;
         float fgSpeed, mgSpeed, bgSpeed;
@@ -22,6 +23,7 @@ namespace Space_Adventures
         {
             this.tex = new Texture2D[3];
             this.window = window;
+            levelBounds = new Rectangle(0, 0, 3000, 900);
 
             tex[0] = Content.Load<Texture2D>("DesertFG");
             tex[1] = Content.Load<Texture2D>("DesertMG");
@@ -31,27 +33,27 @@ namespace Space_Adventures
             fgSpacing = tex[0].Width;
             fgSpeed = 0.1f;
 
-            for (int i = 0; i < (window.ClientBounds.Width / fgSpacing) + 2; i++)
+            for (int i = 0; i < (levelBounds.Width / fgSpacing) + 2; i++)
             {
-                foreGround.Add(new Vector2(i * fgSpacing, window.ClientBounds.Height));
+                foreGround.Add(new Vector2(i * fgSpacing, levelBounds.Height - 420));
             }
 
             middleGround = new List<Vector2>();
-            mgSpacing = window.ClientBounds.Width / 5;
+            mgSpacing = levelBounds.Width;
             mgSpeed = 0.25f;
 
-            for (int i = 0; i < (window.ClientBounds.Width / mgSpacing) + 2; i++)
+            for (int i = 0; i < (levelBounds.Width / mgSpacing) + 2; i++)
             {
-                middleGround.Add(new Vector2(i * mgSpacing, window.ClientBounds.Height - tex[1].Height));
+                middleGround.Add(new Vector2(i * mgSpacing, levelBounds.Height - tex[1].Height - 420));
             }
 
             backGround = new List<Vector2>();
-            bgSpacing = window.ClientBounds.Width / 3;
+            bgSpacing = levelBounds.Width;
             bgSpeed = 0.50f;
 
-            for (int i = 0; i < (window.ClientBounds.Width / bgSpacing) + 2; i++)
+            for (int i = 0; i < (levelBounds.Width / bgSpacing) + 2; i++)
             {
-                backGround.Add(new Vector2(i * bgSpacing, window.ClientBounds.Height - tex[0].Height));
+                backGround.Add(new Vector2(i * bgSpacing, levelBounds.Height - tex[0].Height * 2 - 380));
             }
         }
 

@@ -14,7 +14,7 @@ namespace Space_Adventures
         private Vector2 pos;
         private Viewport view;
 
-        public Rectangle levelBounds = new Rectangle(0, 0, 1000, 640);
+        public Rectangle levelBounds = new Rectangle(0, 0, 3000, 900);
 
         public Camera(Viewport view)
         {

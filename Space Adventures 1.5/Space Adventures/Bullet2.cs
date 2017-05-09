@@ -23,10 +23,12 @@ namespace Space_Adventures
         bool shootRight = true;
         bool shootUp = false;
         double direction;
+        float bulletSpeed;
 
         //Texture2D bulletTex;
 
-        public Bullet2(Texture2D tex, Texture2D bulletTex, Vector2 startPos, Vector2 velocity, Rectangle hitBox, GameWindow window, bool shootRight, bool shootUp) : base(tex, bulletTex, startPos, hitBox, window)
+        public Bullet2(Texture2D tex, Texture2D bulletTex, Vector2 startPos, Vector2 velocity, Rectangle hitBox, GameWindow window, bool shootRight, bool shootUp) 
+            : base(tex, bulletTex, startPos, hitBox, window)
         {
             this.tex = tex;
             this.startPos = startPos;
@@ -34,6 +36,8 @@ namespace Space_Adventures
             this.hitBox = hitBox;
             this.shootRight = shootRight;
             this.shootUp = shootUp;
+
+            bulletSpeed = 8;
 
             shootRight = true;
             shootUp = false;
@@ -45,16 +49,16 @@ namespace Space_Adventures
             if (shootRight && !shootUp)
             {
                 direction = 1;
-                startPos.X += 5 * (float)direction;
+                startPos.X += bulletSpeed * (float)direction;
             }
             else if (!shootUp)
             {
                 direction = -1;
-                startPos.X += 5 * (float)direction;
+                startPos.X += bulletSpeed * (float)direction;
             }
             if (shootUp)
             {
-                startPos.Y -= 5;
+                startPos.Y -= bulletSpeed;
             }
 
             hitBox = new Rectangle((int)startPos.X, (int)startPos.Y, tex.Width, tex.Height);
